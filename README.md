@@ -2,11 +2,13 @@
 
 
 📌 Overview
+
 This project focuses on analyzing customer shopping behavior using real-world transactional data. The goal is to uncover insights related to customer demographics, purchasing patterns, product performance, discounts, and subscription behavior.
 The analysis combines Python, SQL, PostgreSQL, and Power BI to deliver data-driven insights supported by a dashboard, report, and presentation.
 
 
 📂 Dataset
+
 Type: Customer shopping transaction data
 Records: ~3,900 transactions
 Features include:
@@ -61,6 +63,7 @@ The dashboard provides:
 
 
 📌 Conclusion
+
 This project demonstrates an end-to-end data analytics workflow, covering data cleaning, analysis, SQL querying, visualization, and business storytelling. 
 It reflects practical skills required for entry-level Data Analyst / Data Analytics roles and real-world decision-making scenarios.
    

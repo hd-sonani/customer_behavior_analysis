@@ -7,6 +7,7 @@ This project focuses on analyzing customer shopping behavior using real-world tr
 The analysis combines Python, SQL, PostgreSQL, and Power BI to deliver data-driven insights supported by a dashboard, report, and presentation.
 
 
+
 📂 Dataset
 
 Type: Customer shopping transaction data
@@ -19,12 +20,14 @@ Features include:
 
 
 🛠️ Tools & Technologies
+
 Python: pandas, numpy
 SQL: PostgreSQL
 Database: PostgreSQL Server
 Visualization: Power BI
 Reporting: PDF report
 Presentation: Gamma (PPT)  
+
 
 
 🔍 Project Workflow / Steps
@@ -54,12 +57,15 @@ Presentation: Gamma (PPT)
       -Prepared a presentation using Gamma to summarize insights and recommendations.
 
 
+
 📈 Power BI Dashboard
+
 The dashboard provides:
               -Total customers and average purchase amount
               -Revenue by category, gender, and age group
               -Subscription status distribution
               -Sales trends and product performance
+
 
 
 📌 Conclusion
